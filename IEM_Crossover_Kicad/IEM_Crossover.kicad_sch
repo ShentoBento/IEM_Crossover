@@ -927,7 +927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 91.44 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -1141,10 +1141,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "94ee8553-b5e8-4a95-bed3-4b26102f1cab")
 		(property "Reference" "R1"
-			(at 107.95 72.39 90)
+			(at 107.95 75.184 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1155,6 +1154,7 @@
 		)
 		(property "Value" "R_Small"
 			(at 107.95 74.93 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1163,7 +1163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 107.95 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -1406,7 +1406,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 99.06 80.01 0)
 			(hide yes)
 			(show_name no)
