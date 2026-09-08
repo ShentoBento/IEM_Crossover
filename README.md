@@ -1,5 +1,6 @@
 # IEM_Crossover
 Crossover PCB Template for Multi-Driver IEMS
-![Front Render](Images/Render_Front.png)
-![Back Render](Images/Render_Back.png)
-![PCB in Kicad](Images/Kicad_PCB.png)
+
+<img src="Images/Render_Front.png" width="400"> <img src="Images/Render_Back.png" width="400">
+
+<img src="Images/Kicad_PCB.png" width="400"> <img src="Images/Kicad_Schematic.png" width="400">
